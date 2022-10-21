@@ -1,0 +1,11 @@
+{
+    "name": "com.google.ads.mobile.adapter.facebook",
+    "displayName": "Admob.Facebook",
+    "description": "Admob.Facebook",
+    "version": "3.7.0",
+    "unity": "2017.4",
+    "author": {
+      "name": "Google LLC",
+      "url": "https://developers.google.com/admob/unity/quick-start"
+    }
+  }
